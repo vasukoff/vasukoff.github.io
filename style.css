@@ -1,4 +1,6 @@
 .header {
   background-image: url(headerfon.jpg) 100% 100% no-repeat;
-  background-size: cover; 
+  background-size: cover;
+  width: 1200px;
+  heigth: 700px;
 }
